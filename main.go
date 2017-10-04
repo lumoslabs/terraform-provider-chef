@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/hashicorp/terraform/plugin"
-	"github.com/terraform-providers/terraform-provider-chef/chef"
+	"github.com/lumoslabs/terraform-provider-chef/chef"
 )
 
 func main() {
